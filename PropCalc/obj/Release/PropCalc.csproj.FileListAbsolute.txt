@@ -1,0 +1,13 @@
+C:\Users\timelord\source\repos\PropCalc\PropCalc\bin\Release\PropCalc.exe.config
+C:\Users\timelord\source\repos\PropCalc\PropCalc\bin\Release\PropCalc.exe.manifest
+C:\Users\timelord\source\repos\PropCalc\PropCalc\bin\Release\PropCalc.application
+C:\Users\timelord\source\repos\PropCalc\PropCalc\bin\Release\PropCalc.exe
+C:\Users\timelord\source\repos\PropCalc\PropCalc\bin\Release\PropCalc.pdb
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.PropCalc.resources
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.Properties.Resources.resources
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.csproj.GenerateResource.cache
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.csproj.CoreCompileInputs.cache
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.exe.manifest
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.application
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.exe
+C:\Users\timelord\source\repos\PropCalc\PropCalc\obj\Release\PropCalc.pdb
